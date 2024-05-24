@@ -4,7 +4,7 @@ import Cabecalho from './componentes/Cabecalho';
 function App() {
   return (
     <div className="App">
-      <h1>rafael costa</h1>
+      <h1>rafael pinheiro costa</h1>
       <Cabecalho/> 
       <Cabecalho/>   
     </div>
